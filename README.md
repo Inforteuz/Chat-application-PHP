@@ -4,7 +4,7 @@ Chat Xizmati
 
 ### O`rnatish
 
-* Men Xammp serveridan foydalanishni yaxshi ko'raman, shuning uchun Wamp serverini o'rnatishni taklif qilaman. O'rnatilgandan so'ng, quyidagi ko'rsatmalarni bajaring.
+* Men Xammp serveridan foydalanishni yaxshi ko'raman, shuning uchun Xammp serverini o'rnatishni taklif qilaman. O'rnatilgandan so'ng, quyidagi ko'rsatmalarni bajaring.
 
 * Xammp serverini ishga tushiring: undov :.
 
